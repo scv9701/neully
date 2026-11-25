@@ -5,4 +5,4 @@
 - 개인정보처리방침: https://scv9701.github.io/neully/privacy.html
 - 이용약관: https://scv9701.github.io/neully/terms.html
 
-개발자 헤이진(HEYJIN) · scv9701@gmail.com
+개발자 헤이진(HEYJIN) · heyjin8000@gmail.com
